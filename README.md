@@ -1,4 +1,4 @@
-# Python IA chatbot
+# Python AI chatbot
 
 This is a chatbot made in python that, using the information provided in the intents.json file, can interact with a user
 
@@ -7,8 +7,6 @@ This is a chatbot made in python that, using the information provided in the int
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-
-What things you need to install the software and how to install them
 
 ```
 python  ^3.8
@@ -20,10 +18,6 @@ pip 20.0.2
 ```
 
 ### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
 
 You can install the dependences with pip 
 
