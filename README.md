@@ -41,16 +41,16 @@ poetry install
 
 To run the chatbot first, you need to generate the files needed to do this, you must run "training.py" first
 
-'' '
+```
 python traning.py
-'' '
+```
 
 This command will generate files of 3 (three) words.pkl, classes.pkl and chatbot_model.h5
 After that, you can run "chatbot.py"
 
-'' '
+```
 python chatbot.py
-'' '
+```
 
 This command will start the chatbot after execution, you just need to type a few words to speak to the AI
 
