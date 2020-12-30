@@ -28,13 +28,13 @@ Say what the step will be
 You can install the dependences with pip 
 
 ```
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 or you can use poetry
 
 ```
-poetry install
+python -m poetry install
 ```
 
 ## Run
