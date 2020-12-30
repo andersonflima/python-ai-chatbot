@@ -8,8 +8,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
 ```
 python  ^3.8
 numpy  ^1.19.4
@@ -20,10 +18,6 @@ pip 20.0.2
 ```
 
 ### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
 
 You can install the dependences with pip 
 
