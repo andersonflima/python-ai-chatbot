@@ -18,32 +18,24 @@ pip 20.0.2
 ```
 
 ### Installing
-
-You can install the dependences with pip 
-
-```
-python -m pip install -r requirements.txt
-```
-
-or you can use poetry
-
 ```
 python -m poetry install
 ```
+This command will generate a virtual env for this project
 
 ## Run
 
 To run the chatbot first, you need to generate the files needed to do this, you must run "training.py" first
 
 ```
-python traning.py
+poetry run traning.py
 ```
 
 This command will generate files of 3 (three) words.pkl, classes.pkl and chatbot_model.h5
 After that, you can run "chatbot.py"
 
 ```
-python chatbot.py
+poetry run chatbot.py
 ```
 
 This command will start the chatbot after execution, you just need to type a few words to speak to the AI
