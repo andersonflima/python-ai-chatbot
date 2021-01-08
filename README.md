@@ -26,6 +26,7 @@ Make sure to add more if you want
 ```
 python -m poetry install
 ```
+This command will generate a virtual env for this project
 
 ## Run
 
